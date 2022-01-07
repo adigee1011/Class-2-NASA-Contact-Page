@@ -1,6 +1,11 @@
+/* section {
+    height: 50px;
+} */
+
 .first-section {
     display: flex;
     flex-direction: column;
+    
 }
 
 #h1{
