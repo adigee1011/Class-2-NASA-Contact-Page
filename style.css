@@ -1,3 +1,6 @@
+*{
+    font-family: 'Yantramanav', sans-serif;
+}
 /* section {
     height: 50px;
 } */
@@ -17,4 +20,21 @@
     margin-left:auto;
     margin-right: auto;
     margin-bottom: auto;
+}
+
+.second-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 150px;
+    background-color: lightblue;
+    /* font-family: 'Yantramanav', sans-serif;
+    font-weight: bold; */
+}
+
+article {
+    border: red 1px groove;
+    width: 270px;
+    flex-wrap:wrap;
+    /* margin-right: 20px; */
 }
