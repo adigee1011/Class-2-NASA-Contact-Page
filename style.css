@@ -13,7 +13,7 @@
 
 #h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
     font-family: 'Yantramanav', sans-serif;
     color: white;
     margin-top: -200px;
@@ -27,13 +27,13 @@
     flex-direction: row;
     justify-content: space-evenly;
     margin-top: 150px;
-    background-color: lightblue;
+    background-color: rgb(221, 217, 217);
     /* font-family: 'Yantramanav', sans-serif;
     font-weight: bold; */
 }
 
 article {
-    border: red 1px groove;
+    /* border: red 1px groove; */
     width: 270px;
     flex-wrap:wrap;
     /* margin-right: 20px; */
