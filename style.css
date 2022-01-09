@@ -19,7 +19,7 @@
 .fling-minislide img:nth-child(4){animation-delay:6s;} */
 
 .fling-minislide {width:850px; height:450px; overflow:hidden; margin: auto; }
-.fling-minislide img{ position:absolute; animation:fling-minislide 10s infinite; opacity:0; width: 100%; height: auto;}
+.fling-minislide img{ position:absolute; animation:fling-minislide 10s infinite; opacity:0; width: 100%; height: auto; }
 
 @keyframes fling-minislide {25%{opacity:1;} 40%{opacity:0;}}
 .fling-minislide img:nth-child(4){animation-delay:0s;}
