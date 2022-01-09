@@ -27,7 +27,9 @@
 .fling-minislide img:nth-child(2){animation-delay:6s;}
 .fling-minislide img:nth-child(1){animation-delay:10s;}
 
-
+body {
+    height: auto;
+}
 
 .first-section {
     display: flex;
@@ -57,6 +59,7 @@
     /* flex-direction: row; */
     /* justify-content: space-evenly; */
     margin: 200px auto;
+    margin-bottom: 0px;
     background-color: rgb(221, 217, 217);
     height: 324px;
     width: 850px;
