@@ -30,7 +30,7 @@ img {
 .second-section {
     display: flex;
     /* flex-direction: row; */
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
     margin: 200px auto;
     background-color: rgb(221, 217, 217);
     height: 324px;
